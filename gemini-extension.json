@@ -1,0 +1,11 @@
+{
+  "name": "pingaura",
+  "version": "1.0.0",
+  "description": "PingAura AI visibility: scores, competitors, prompts, site health and articles from Gemini CLI.",
+  "mcpServers": {
+    "pingaura": {
+      "httpUrl": "https://www.pingaura.ai/api/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
