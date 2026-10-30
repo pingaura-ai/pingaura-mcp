@@ -39,13 +39,14 @@ gemini extensions install https://github.com/pingaura-ai/pingaura-mcp
 
 ## What you can do
 
-- Visibility: AI visibility score, per-engine summaries, run comparisons
-- Competitors: list, add and update the competitors you track
-- Prompts: browse prompt scores, organise prompts into topics and filters
-- Site health: audits, issues and sitemap sync
-- Content: list, draft, update and publish articles
+- **Visibility:** your AI visibility score, per-engine summaries and run-to-run comparisons
+- **Competitors:** see who AI answers recommend, and add, rename or stop tracking competitors
+- **Prompts:** prompt scores, topics and filters for the questions you track
+- **Site health:** audits, issues and sitemap sync
+- **Content:** draft, update, publish and archive articles, and review hosted pages
+- **ChatGPT Ads:** campaign, ad group and ad performance
 
-Write tools are marked so your assistant asks before changing anything.
+Each tool describes what it returns and which related tool fits a different question, so your assistant can pick the right one. Tools that change data are marked so your assistant asks before making changes.
 
 ## Support
 
